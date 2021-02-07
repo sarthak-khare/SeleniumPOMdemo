@@ -13,6 +13,8 @@ import com.guru99.base.BasePage;
 
 // Comment to check git-pull
 
+// Adding new comment to check git-pull again
+
 public class BaseTest {
 
 	@BeforeSuite
