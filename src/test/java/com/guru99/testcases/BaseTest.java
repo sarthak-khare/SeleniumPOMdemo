@@ -11,6 +11,8 @@ import org.testng.annotations.BeforeSuite;
 
 import com.guru99.base.BasePage;
 
+## Comment to check git-pull
+
 public class BaseTest {
 
 	@BeforeSuite
