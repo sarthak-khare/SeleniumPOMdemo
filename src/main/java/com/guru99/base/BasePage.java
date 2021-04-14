@@ -59,7 +59,7 @@ public class BasePage {
 		}
 
 	}
-	
+
 	public static String readORfile(String val) {
 		return OR.getProperty(val);
 	}

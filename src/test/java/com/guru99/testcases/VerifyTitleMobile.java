@@ -15,7 +15,6 @@ public class VerifyTitleMobile extends ClickOnMobile {
 		System.out.println("Inside test2");
 		System.out.println(MobilePage.getTitle());
 		Assert.assertEquals(MobilePage.getTitle(), BasePage.readORfile("mob_title"));
-		
-		
+
 	}
 }

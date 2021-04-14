@@ -5,6 +5,7 @@
     <classes>
       <class name="com.guru99.testcases.VerifyTitleMobile">
         <methods>
+          <include name="verifyMobileTitle"/>
           <include name="clickOnMobile"/>
           <include name="setUp"/>
           <include name="tearDown"/>
